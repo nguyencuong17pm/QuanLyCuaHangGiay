@@ -1,0 +1,351 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{F6C9CA80-3846-4B0F-8A6C-FEA2AF30D536}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>QLGIAY</RootNamespace>
+    <AssemblyName>QLGIAY</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <NoWin32Manifest>true</NoWin32Manifest>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="IBM.Data.DB2, Version=9.7.4.4, Culture=neutral, PublicKeyToken=7c307b91aa13d208, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Program Files\IBM\SQLLIB\BIN\netf40_32\IBM.Data.DB2.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=14.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>D:\THỰC HÀNH DB2\DB2_Buoi04\Microsoft.Office.Interop.Excel.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BUS\GiayBus.cs" />
+    <Compile Include="BUS\HoaDonBus.cs" />
+    <Compile Include="BUS\KhachHangBus.cs" />
+    <Compile Include="BUS\NhanVienBus.cs" />
+    <Compile Include="BUS\TaiKhoanBus.cs" />
+    <Compile Include="DATA\Connect.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="DATA\GiayData.cs" />
+    <Compile Include="DATA\HoaDonData.cs" />
+    <Compile Include="DATA\KhachHangData.cs" />
+    <Compile Include="DATA\NhanVienData.cs" />
+    <Compile Include="DATA\TaiKhoanData.cs" />
+    <Compile Include="GUI\frmChinh.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\frmChinh.Designer.cs">
+      <DependentUpon>frmChinh.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\frmDangNhap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\frmDangNhap.Designer.cs">
+      <DependentUpon>frmDangNhap.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\frmGiay.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\frmGiay.Designer.cs">
+      <DependentUpon>frmGiay.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\frmHoaDon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\frmHoaDon.Designer.cs">
+      <DependentUpon>frmHoaDon.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\frmKhachHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\frmKhachHang.Designer.cs">
+      <DependentUpon>frmKhachHang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\frmNhanVien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\frmNhanVien.Designer.cs">
+      <DependentUpon>frmNhanVien.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\frmTaiKhoan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\frmTaiKhoan.Designer.cs">
+      <DependentUpon>frmTaiKhoan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\frmThôngTin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\frmThôngTin.Designer.cs">
+      <DependentUpon>frmThôngTin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="INFO\GiayInfo.cs" />
+    <Compile Include="INFO\HoaDonInfo.cs" />
+    <Compile Include="INFO\KhachHangInfo.cs" />
+    <Compile Include="INFO\NhanVienInfo.cs" />
+    <Compile Include="INFO\TaiKhoanInfo.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="GUI\frmChinh.resx">
+      <DependentUpon>frmChinh.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\frmDangNhap.resx">
+      <DependentUpon>frmDangNhap.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\frmGiay.resx">
+      <DependentUpon>frmGiay.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\frmHoaDon.resx">
+      <DependentUpon>frmHoaDon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\frmKhachHang.resx">
+      <DependentUpon>frmKhachHang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\frmNhanVien.resx">
+      <DependentUpon>frmNhanVien.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\frmTaiKhoan.resx">
+      <DependentUpon>frmTaiKhoan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\frmThôngTin.resx">
+      <DependentUpon>frmThôngTin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="ClassDiagram1.cd" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\edit16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\delete16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\save16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\exit16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\refresh16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\exit161.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\delete161.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\refresh161.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add161.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\arrow32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logout161.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Loginj1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\login321.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\adidas-originals-stan-smith-midsummer-metallic-1-320x2131.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\usermanager321.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tải xuống1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\users32_21.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\keys321.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\help321.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\help162.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\finduser32_21.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\adidas-originals-stan-smith-midsummer-metallic-1-320x2132.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\addmanager321.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tải xuống1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\users32_22.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\keys322.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\help322.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\help163.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\login1001.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\User-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\background1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Cong_viec_giam_doc_quan_he_khach_hang.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\12.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\background11.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\background.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\key60.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\yyy.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kkkk.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hi.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\zk.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\users32_23.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\4040-top-10-cua-hang-giay-nu-dep-nhat-thanh-pho-ho-chi-minh-1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Huong-dan-su-dung-me.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\jkkk.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\asc32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2157dbf6250e330.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1057faf9e89c50a.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\d8d5f1160e3f9425fe4ace2b582b49ea.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tải xuống2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Adobe-Help-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\d8d5f1160e3f9425fe4ace2b582b49ea1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\shutdown32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\view16.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

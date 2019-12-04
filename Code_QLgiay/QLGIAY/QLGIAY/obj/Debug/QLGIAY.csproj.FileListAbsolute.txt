@@ -1,0 +1,108 @@
+E:\db2\QLGIAY\QLGIAY\bin\Debug\QLGIAY.exe.config
+E:\db2\QLGIAY\QLGIAY\obj\Debug\QLGIAY.Properties.Resources.resources
+E:\db2\QLGIAY\QLGIAY\obj\Debug\QLGIAY.csproj.GenerateResource.Cache
+E:\db2\QLGIAY\QLGIAY\obj\Debug\QLGIAY.GUI.frmGiay.resources
+E:\db2\QLGIAY\QLGIAY\obj\Debug\QLGIAY.GUI.frmHoaDon.resources
+E:\db2\QLGIAY\QLGIAY\obj\Debug\QLGIAY.GUI.frmNhanVien.resources
+E:\db2\QLGIAY\QLGIAY\obj\Debug\QLGIAY.GUI.frmTaiKhoan.resources
+E:\db2\QLGIAY\QLGIAY\bin\Debug\QLGIAY.exe
+E:\db2\QLGIAY\QLGIAY\bin\Debug\QLGIAY.pdb
+E:\db2\QLGIAY\QLGIAY\bin\Debug\IBM.Data.DB2.dll
+E:\db2\QLGIAY\QLGIAY\obj\Debug\QLGIAY.exe
+E:\db2\QLGIAY\QLGIAY\obj\Debug\QLGIAY.pdb
+E:\db2\QLGIAY\QLGIAY\obj\Debug\QLGIAY.csprojResolveAssemblyReference.cache
+E:\db2\QLGIAY\QLGIAY\obj\Debug\QLGIAY.GUI.frmKhachHang.resources
+E:\db2\QLGIAY\QLGIAY\obj\Debug\QLGIAY.GUI.frmChinh.resources
+E:\db2\QLGIAY\QLGIAY\obj\Debug\QLGIAY.GUI.frmDangNhap.resources
+E:\db2\QLGIAY\QLGIAY\obj\Debug\QLGIAY.GUI.frmThôngTin.resources
+E:\db2\QLGIAY\QLGIAY\obj\Debug\QLGIAY.GUI.frmHuongDan.resources
+D:\Đồ án Db2\Code_QLgiay\QLGIAY\QLGIAY\bin\Debug\QLGIAY.exe.config
+D:\Đồ án Db2\Code_QLgiay\QLGIAY\QLGIAY\obj\Debug\QLGIAY.exe
+D:\Đồ án Db2\Code_QLgiay\QLGIAY\QLGIAY\obj\Debug\QLGIAY.pdb
+D:\Đồ án Db2\Code_QLgiay\QLGIAY\QLGIAY\bin\Debug\QLGIAY.exe
+D:\Đồ án Db2\Code_QLgiay\QLGIAY\QLGIAY\bin\Debug\QLGIAY.pdb
+D:\Đồ án Db2\Code_QLgiay\QLGIAY\QLGIAY\bin\Debug\IBM.Data.DB2.dll
+D:\Đồ án Db2\Code_QLgiay\QLGIAY\QLGIAY\obj\Debug\QLGIAY.csprojResolveAssemblyReference.cache
+D:\Đồ án Db2\Code_QLgiay\QLGIAY\QLGIAY\obj\Debug\QLGIAY.GUI.frmChinh.resources
+D:\Đồ án Db2\Code_QLgiay\QLGIAY\QLGIAY\obj\Debug\QLGIAY.GUI.frmDangNhap.resources
+D:\Đồ án Db2\Code_QLgiay\QLGIAY\QLGIAY\obj\Debug\QLGIAY.GUI.frmGiay.resources
+D:\Đồ án Db2\Code_QLgiay\QLGIAY\QLGIAY\obj\Debug\QLGIAY.GUI.frmHoaDon.resources
+D:\Đồ án Db2\Code_QLgiay\QLGIAY\QLGIAY\obj\Debug\QLGIAY.GUI.frmHuongDan.resources
+D:\Đồ án Db2\Code_QLgiay\QLGIAY\QLGIAY\obj\Debug\QLGIAY.GUI.frmKhachHang.resources
+D:\Đồ án Db2\Code_QLgiay\QLGIAY\QLGIAY\obj\Debug\QLGIAY.GUI.frmNhanVien.resources
+D:\Đồ án Db2\Code_QLgiay\QLGIAY\QLGIAY\obj\Debug\QLGIAY.GUI.frmTaiKhoan.resources
+D:\Đồ án Db2\Code_QLgiay\QLGIAY\QLGIAY\obj\Debug\QLGIAY.GUI.frmThôngTin.resources
+D:\Đồ án Db2\Code_QLgiay\QLGIAY\QLGIAY\obj\Debug\QLGIAY.Properties.Resources.resources
+D:\Đồ án Db2\Code_QLgiay\QLGIAY\QLGIAY\obj\Debug\QLGIAY.csproj.GenerateResource.Cache
+D:\do_andb2\Code_QLgiay\QLGIAY\QLGIAY\bin\Debug\QLGIAY.exe.config
+D:\do_andb2\Code_QLgiay\QLGIAY\QLGIAY\obj\Debug\QLGIAY.exe
+D:\do_andb2\Code_QLgiay\QLGIAY\QLGIAY\obj\Debug\QLGIAY.pdb
+D:\do_andb2\Code_QLgiay\QLGIAY\QLGIAY\bin\Debug\QLGIAY.exe
+D:\do_andb2\Code_QLgiay\QLGIAY\QLGIAY\bin\Debug\QLGIAY.pdb
+D:\do_andb2\Code_QLgiay\QLGIAY\QLGIAY\bin\Debug\IBM.Data.DB2.dll
+D:\do_andb2\Code_QLgiay\QLGIAY\QLGIAY\obj\Debug\QLGIAY.csprojResolveAssemblyReference.cache
+D:\do_andb2\Code_QLgiay\QLGIAY\QLGIAY\obj\Debug\QLGIAY.GUI.frmChinh.resources
+D:\do_andb2\Code_QLgiay\QLGIAY\QLGIAY\obj\Debug\QLGIAY.GUI.frmDangNhap.resources
+D:\do_andb2\Code_QLgiay\QLGIAY\QLGIAY\obj\Debug\QLGIAY.GUI.frmGiay.resources
+D:\do_andb2\Code_QLgiay\QLGIAY\QLGIAY\obj\Debug\QLGIAY.GUI.frmHoaDon.resources
+D:\do_andb2\Code_QLgiay\QLGIAY\QLGIAY\obj\Debug\QLGIAY.GUI.frmHuongDan.resources
+D:\do_andb2\Code_QLgiay\QLGIAY\QLGIAY\obj\Debug\QLGIAY.GUI.frmKhachHang.resources
+D:\do_andb2\Code_QLgiay\QLGIAY\QLGIAY\obj\Debug\QLGIAY.GUI.frmNhanVien.resources
+D:\do_andb2\Code_QLgiay\QLGIAY\QLGIAY\obj\Debug\QLGIAY.GUI.frmTaiKhoan.resources
+D:\do_andb2\Code_QLgiay\QLGIAY\QLGIAY\obj\Debug\QLGIAY.GUI.frmThôngTin.resources
+D:\do_andb2\Code_QLgiay\QLGIAY\QLGIAY\obj\Debug\QLGIAY.Properties.Resources.resources
+D:\do_andb2\Code_QLgiay\QLGIAY\QLGIAY\obj\Debug\QLGIAY.csproj.GenerateResource.Cache
+D:\Nhom8\Code_QLgiay\QLGIAY\QLGIAY\bin\Debug\QLGIAY.exe.config
+D:\Nhom8\Code_QLgiay\QLGIAY\QLGIAY\obj\Debug\QLGIAY.exe
+D:\Nhom8\Code_QLgiay\QLGIAY\QLGIAY\obj\Debug\QLGIAY.pdb
+D:\Nhom8\Code_QLgiay\QLGIAY\QLGIAY\bin\Debug\QLGIAY.exe
+D:\Nhom8\Code_QLgiay\QLGIAY\QLGIAY\bin\Debug\QLGIAY.pdb
+D:\Nhom8\Code_QLgiay\QLGIAY\QLGIAY\bin\Debug\IBM.Data.DB2.dll
+D:\Nhom8\Code_QLgiay\QLGIAY\QLGIAY\obj\Debug\QLGIAY.csprojResolveAssemblyReference.cache
+D:\Nhom8\Code_QLgiay\QLGIAY\QLGIAY\obj\Debug\QLGIAY.GUI.frmChinh.resources
+D:\Nhom8\Code_QLgiay\QLGIAY\QLGIAY\obj\Debug\QLGIAY.GUI.frmDangNhap.resources
+D:\Nhom8\Code_QLgiay\QLGIAY\QLGIAY\obj\Debug\QLGIAY.GUI.frmGiay.resources
+D:\Nhom8\Code_QLgiay\QLGIAY\QLGIAY\obj\Debug\QLGIAY.GUI.frmHoaDon.resources
+D:\Nhom8\Code_QLgiay\QLGIAY\QLGIAY\obj\Debug\QLGIAY.GUI.frmKhachHang.resources
+D:\Nhom8\Code_QLgiay\QLGIAY\QLGIAY\obj\Debug\QLGIAY.GUI.frmNhanVien.resources
+D:\Nhom8\Code_QLgiay\QLGIAY\QLGIAY\obj\Debug\QLGIAY.GUI.frmTaiKhoan.resources
+D:\Nhom8\Code_QLgiay\QLGIAY\QLGIAY\obj\Debug\QLGIAY.GUI.frmThôngTin.resources
+D:\Nhom8\Code_QLgiay\QLGIAY\QLGIAY\obj\Debug\QLGIAY.Properties.Resources.resources
+D:\Nhom8\Code_QLgiay\QLGIAY\QLGIAY\obj\Debug\QLGIAY.csproj.GenerateResource.Cache
+D:\nhap\Code_QLgiay\QLGIAY\QLGIAY\bin\Debug\QLGIAY.exe.config
+D:\nhap\Code_QLgiay\QLGIAY\QLGIAY\obj\Debug\QLGIAY.exe
+D:\nhap\Code_QLgiay\QLGIAY\QLGIAY\obj\Debug\QLGIAY.pdb
+D:\nhap\Code_QLgiay\QLGIAY\QLGIAY\bin\Debug\QLGIAY.exe
+D:\nhap\Code_QLgiay\QLGIAY\QLGIAY\bin\Debug\QLGIAY.pdb
+D:\nhap\Code_QLgiay\QLGIAY\QLGIAY\bin\Debug\IBM.Data.DB2.dll
+D:\nhap\Code_QLgiay\QLGIAY\QLGIAY\obj\Debug\QLGIAY.csprojResolveAssemblyReference.cache
+D:\nhap\Code_QLgiay\QLGIAY\QLGIAY\obj\Debug\QLGIAY.GUI.frmChinh.resources
+D:\nhap\Code_QLgiay\QLGIAY\QLGIAY\obj\Debug\QLGIAY.GUI.frmDangNhap.resources
+D:\nhap\Code_QLgiay\QLGIAY\QLGIAY\obj\Debug\QLGIAY.GUI.frmGiay.resources
+D:\nhap\Code_QLgiay\QLGIAY\QLGIAY\obj\Debug\QLGIAY.GUI.frmHoaDon.resources
+D:\nhap\Code_QLgiay\QLGIAY\QLGIAY\obj\Debug\QLGIAY.GUI.frmKhachHang.resources
+D:\nhap\Code_QLgiay\QLGIAY\QLGIAY\obj\Debug\QLGIAY.GUI.frmNhanVien.resources
+D:\nhap\Code_QLgiay\QLGIAY\QLGIAY\obj\Debug\QLGIAY.GUI.frmTaiKhoan.resources
+D:\nhap\Code_QLgiay\QLGIAY\QLGIAY\obj\Debug\QLGIAY.GUI.frmThôngTin.resources
+D:\nhap\Code_QLgiay\QLGIAY\QLGIAY\obj\Debug\QLGIAY.Properties.Resources.resources
+D:\nhap\Code_QLgiay\QLGIAY\QLGIAY\obj\Debug\QLGIAY.csproj.GenerateResource.Cache
+D:\Đồ án Db2\Nhom8\Code_QLgiay\QLGIAY\QLGIAY\bin\Debug\QLGIAY.exe.config
+D:\Đồ án Db2\Nhom8\Code_QLgiay\QLGIAY\QLGIAY\obj\Debug\QLGIAY.exe
+D:\Đồ án Db2\Nhom8\Code_QLgiay\QLGIAY\QLGIAY\obj\Debug\QLGIAY.pdb
+D:\do_anDb2\Nhom8\Code_QLgiay\QLGIAY\QLGIAY\bin\Debug\QLGIAY.exe.config
+D:\do_anDb2\Nhom8\Code_QLgiay\QLGIAY\QLGIAY\obj\Debug\QLGIAY.exe
+D:\do_anDb2\Nhom8\Code_QLgiay\QLGIAY\QLGIAY\obj\Debug\QLGIAY.pdb
+D:\HKI-nam_3\do_anDb2\Nhom8\Code_QLgiay\QLGIAY\QLGIAY\bin\Debug\QLGIAY.exe.config
+D:\HKI-nam_3\do_anDb2\Nhom8\Code_QLgiay\QLGIAY\QLGIAY\obj\Debug\QLGIAY.exe
+D:\HKI-nam_3\do_anDb2\Nhom8\Code_QLgiay\QLGIAY\QLGIAY\obj\Debug\QLGIAY.pdb
+D:\HKI-nam_3\do_anDb2\Nhom8\Code_QLgiay\QLGIAY\QLGIAY\obj\Debug\QLGIAY.csprojResolveAssemblyReference.cache
+D:\HKI-nam_3\do_anDb2\Nhom8\Code_QLgiay\QLGIAY\QLGIAY\obj\Debug\QLGIAY.GUI.frmChinh.resources
+D:\HKI-nam_3\do_anDb2\Nhom8\Code_QLgiay\QLGIAY\QLGIAY\obj\Debug\QLGIAY.GUI.frmDangNhap.resources
+D:\HKI-nam_3\do_anDb2\Nhom8\Code_QLgiay\QLGIAY\QLGIAY\obj\Debug\QLGIAY.GUI.frmGiay.resources
+D:\HKI-nam_3\do_anDb2\Nhom8\Code_QLgiay\QLGIAY\QLGIAY\obj\Debug\QLGIAY.GUI.frmHoaDon.resources
+D:\HKI-nam_3\do_anDb2\Nhom8\Code_QLgiay\QLGIAY\QLGIAY\obj\Debug\QLGIAY.GUI.frmKhachHang.resources
+D:\HKI-nam_3\do_anDb2\Nhom8\Code_QLgiay\QLGIAY\QLGIAY\obj\Debug\QLGIAY.GUI.frmNhanVien.resources
+D:\HKI-nam_3\do_anDb2\Nhom8\Code_QLgiay\QLGIAY\QLGIAY\obj\Debug\QLGIAY.GUI.frmTaiKhoan.resources
+D:\HKI-nam_3\do_anDb2\Nhom8\Code_QLgiay\QLGIAY\QLGIAY\obj\Debug\QLGIAY.GUI.frmThôngTin.resources
+D:\HKI-nam_3\do_anDb2\Nhom8\Code_QLgiay\QLGIAY\QLGIAY\obj\Debug\QLGIAY.Properties.Resources.resources
+D:\HKI-nam_3\do_anDb2\Nhom8\Code_QLgiay\QLGIAY\QLGIAY\obj\Debug\QLGIAY.csproj.GenerateResource.Cache
